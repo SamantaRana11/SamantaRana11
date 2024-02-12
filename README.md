@@ -1,6 +1,6 @@
 # 👩🏻‍💻 𝕊𝕒𝕞𝕒𝕟𝕥𝕒 ℝ𝕒𝕟𝕒 - 𝔻𝕒𝕥𝕒 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝
 
-**`Digital Craftsman (Data Professional / Mathematician)`**
+**`Artisane des Données (Data Professional / Mathematician)`**
 
 From Mathematics to Data Alchemy, I've honed my craft in transforming raw data into actionable insights. With a passion for numbers and a knack for storytelling, I specialize in crafting compelling narratives that drive informed decisions. As an adaptable and coachable team player, I thrive in collaborative environments, leveraging my expertise to fuel innovation and drive results.
 
